@@ -20,5 +20,7 @@ José Ángel has developed his professional activity working in the United State
 
 His PhD thesis explores the use of automatic analysis of models in high variability systems. It should be noted that this thesis was developed in  USA, France and Spain, obtaining a doctoral degree from the University of Seville and the University of Rennes 1 in March 2015 through a co-tutorship program. 
 
-He has developed his postdoctoral research activity in the Diverse research group at the INRIA research center. José Ángel combined research activities in other areas such as the development of techniques for big data analysis or the management of variability in highly configurable systems. 
+He has developed his postdoctoral research activity in the Diverse research group at the INRIA research center. José Ángel combined research activities in other areas such as the development of techniques for big data analysis or the management of variability in highly configurable systems. Currently, he works as a Lecturer at the University of Seville. 
+
+Loving code to research and teach!
 
