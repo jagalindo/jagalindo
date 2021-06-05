@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 José Ángel has developed his professional activity working in the United States, France, and Spain. His research areas are software product lines and product configuration. He began his undergraduate studies at the University of Seville by taking a diploma in Computer Engineering. Later, he continued his career in the studies of Bachelor's Degree in Computer Engineering and Master's Degree in Software Engineering and Technology. His first research work was focused on the development of variability management tools such as FaMa and BeTTy, which are widely used both in academia and industry in the context of product lines. 
 
-His PhD thesis explores the use of automatic analysis of models in high variability systems. It should be noted that this thesis was developed in  USA, France and Spain, obtaining a doctoral degree from the University of Seville and the University of Rennes 1 in March 2015 through a co-tutorship program. 
-
-He has developed his postdoctoral research activity in the Diverse research group at the INRIA research center. José Ángel combined research activities in other areas such as the development of techniques for big data analysis or the management of variability in highly configurable systems. Currently, he works as a Lecturer at the University of Seville. 
+His PhD thesis explores the use of automatic analysis of models in high variability systems. He obtained a doctoral degree from the University of Seville and the University of Rennes 1 in March 2015 through a co-tutorship program. He has developed his postdoctoral research activity in the Diverse research group at the INRIA research center. José Ángel combined research activities in other areas such as the development of techniques for big data analysis or the management of variability in highly configurable systems. Currently, he works as a Lecturer at the University of Seville. 
 
 Loving code to research and teach!
 
